@@ -101,4 +101,27 @@ This mystery is core to the gameplay.
 ---
 
 
+## 🎬 Game Overview & Start  
+### 🎭 Role of the **DM — Director of Mind**
+
+In **Mind & Diagnosis (M&D)**, the **DM** is the architect of the world, the keeper of secrets, and the guide through every layer of the psychological mystery.
+
+The DM is responsible for:
+
+- 🎥 **Describing scenes** and setting the emotional tone  
+- 🧍‍♂️ **Portraying the environment, characters, and the patient**  
+- ❓ **Answering player questions** (only within the limits of the story)  
+- 🧩 **Releasing clues gradually** as players progress  
+- 🔄 **Managing the flow of the case**, pacing events and revelations  
+- 🔐 **Protecting the core secrets** until the right moment  
+
+The DM holds **about 60% of the case puzzle**, while the rest is scattered among player roles.  
+No one knows the full truth except the DM —  
+and the players must collaborate, analyze, and uncover the psychological narrative piece by piece.
+
+This is where the investigation begins…  
+Welcome to the mind.
+
+---
+
 
