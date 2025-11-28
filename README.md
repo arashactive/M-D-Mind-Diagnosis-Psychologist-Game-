@@ -1,8 +1,18 @@
+
+
 # ✨ M & D — Mind & Diagnosis  
 ### A Story-Driven Psychological Role-Playing Game
 
 Welcome to **M & D — Mind & Diagnosis**,  
 where psychology transforms into a real adventure… 🎲🧠
+
+<!-- Translation Buttons -->
+[![English](https://img.shields.io/badge/English-EN-blue)](README.md)
+[![فارسی](https://img.shields.io/badge/Farsi-FA-green)](README_FA.md)
+[![Français](https://img.shields.io/badge/Français-FR-orange)](README_FR.md)
+[![Русский](https://img.shields.io/badge/Русский-RU-red)](README_RU.md)
+[![العربية](https://img.shields.io/badge/العربية-AR-purple)](README_AR.md)
+
 
 Here, every story is a **case**,  
 every player holds a **hidden key** 🔐  
